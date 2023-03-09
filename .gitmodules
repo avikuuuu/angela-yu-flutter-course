@@ -1,0 +1,3 @@
+[submodule "angela_iam_rich_flutter"]
+	path = angela_iam_rich_flutter
+	url = https://github.com/avikuuuu/angela_iam_rich_flutter.git
